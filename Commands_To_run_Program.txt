@@ -1,5 +1,0 @@
-Commands to execute the program:
-
-gcc -g -Wall -fopenmp -o ompn ompnMatrixMultiplication.c -lm
-
-./ompn
